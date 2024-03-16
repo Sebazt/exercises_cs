@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\bin\Debug\net8.0\exercises_arq.exe
+C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\bin\Debug\net8.0\exercises_arq.deps.json
+C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\bin\Debug\net8.0\exercises_arq.runtimeconfig.json
+C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\bin\Debug\net8.0\exercises_arq.dll
+C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\bin\Debug\net8.0\exercises_arq.pdb
+C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\obj\Debug\net8.0\exercises_arq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\obj\Debug\net8.0\exercises_arq.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\obj\Debug\net8.0\exercises_arq.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\obj\Debug\net8.0\exercises_arq.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\obj\Debug\net8.0\exercises_arq.dll
+C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\obj\Debug\net8.0\refint\exercises_arq.dll
+C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\obj\Debug\net8.0\exercises_arq.pdb
+C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\obj\Debug\net8.0\exercises_arq.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\obj\Debug\net8.0\ref\exercises_arq.dll
