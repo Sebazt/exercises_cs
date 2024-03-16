@@ -1,8 +1,7 @@
 using System;
-
 class Exercise1
 {
-  public void RealizarOperacion1()
+  public void Operation1()
   {
 
     Console.Write("Ingrese un número: ");

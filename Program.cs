@@ -11,7 +11,7 @@ class Program
       Console.WriteLine("Menu:");
       Console.WriteLine("1. Ejercicio 1");
       Console.WriteLine("2. Ejercicio 2");
-      // Repite esto para los 15 ejercicios...
+
 
       Console.WriteLine("15. Ejercicio 15");
       Console.WriteLine("16. Salir");
@@ -41,14 +41,13 @@ class Program
 
   static void EjecutarEjercicio(int numeroEjercicio)
   {
-    // Determinar qué clase corresponde al número de ejercicio
     switch (numeroEjercicio)
     {
       case 1:
-        new Exercise1().RealizarOperacion1();
+        new Exercise1().Operation1();
         break;
       case 2:
-        //new Ejercicio2().RealizarOperacion();
+        new Exercise2().Operation2();
         break;
       // Repite esto para los 15 ejercicios...
       default:
