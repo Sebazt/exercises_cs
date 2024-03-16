@@ -15,7 +15,7 @@ class Program
 
       Console.WriteLine("15. Ejercicio 15");
       Console.WriteLine("16. Salir");
-      Console.Write("Seleccione el número del ejercicio que desea ejecutar: ");
+      Console.Write("Seleccione el número del ejercicio que desea realizar: ");
 
       if (!int.TryParse(Console.ReadLine(), out opcion))
       {
@@ -45,10 +45,10 @@ class Program
     switch (numeroEjercicio)
     {
       case 1:
-        new Ejercicio1().RealizarOperacion();
+        new Exercise1().RealizarOperacion1();
         break;
       case 2:
-        new Ejercicio2().RealizarOperacion();
+        //new Ejercicio2().RealizarOperacion();
         break;
       // Repite esto para los 15 ejercicios...
       default:
@@ -57,23 +57,3 @@ class Program
     }
   }
 }
-
-class Ejercicio1
-{
-  public void RealizarOperacion()
-  {
-    Console.WriteLine("Ejercicio 1: Operación del ejercicio 1");
-    // Lógica del ejercicio 1 aquí
-  }
-}
-
-class Ejercicio2
-{
-  public void RealizarOperacion()
-  {
-    Console.WriteLine("Ejercicio 2: Operación del ejercicio 2");
-    // Lógica del ejercicio 2 aquí
-  }
-}
-
-// Clases para los otros ejercicios...

@@ -12,3 +12,4 @@ C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitec
 C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\obj\Debug\net8.0\exercises_arq.pdb
 C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\obj\Debug\net8.0\exercises_arq.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\obj\Debug\net8.0\ref\exercises_arq.dll
+C:\Users\Usuario\Desktop\Sebastian\Ing_desarollo_de_software\Semestre 6\arquitectura movil\exercises\exercises_arq\obj\Debug\net8.0\exercises_arq.sourcelink.json
