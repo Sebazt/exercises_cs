@@ -77,13 +77,13 @@ class Program
       case 8:
         new Exercise8().Operation8();
         break;
-      /*case 9:
-        new Exercise9().Operation3();
+      case 9:
+        new Exercise9().Operation9();
         break;
       case 10:
         new Exercise10().Operation10();
         break;
-      case 11:
+      /*case 11:
         new Exercise11().Operation11();
         break;
       case 12:
