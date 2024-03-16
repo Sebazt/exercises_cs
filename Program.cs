@@ -11,8 +11,18 @@ class Program
       Console.WriteLine("Menu:");
       Console.WriteLine("1. Ejercicio 1");
       Console.WriteLine("2. Ejercicio 2");
-
-
+      Console.WriteLine("3. Ejercicio 3");
+      Console.WriteLine("4. Ejercicio 4");
+      Console.WriteLine("5. Ejercicio 5");
+      Console.WriteLine("6. Ejercicio 6");
+      Console.WriteLine("7. Ejercicio 7");
+      Console.WriteLine("8. Ejercicio 8");
+      Console.WriteLine("9. Ejercicio 9");
+      Console.WriteLine("10. Ejercicio 10");
+      Console.WriteLine("11. Ejercicio 11");
+      Console.WriteLine("12. Ejercicio 12");
+      Console.WriteLine("13. Ejercicio 13");
+      Console.WriteLine("14. Ejercicio 14");
       Console.WriteLine("15. Ejercicio 15");
       Console.WriteLine("16. Salir");
       Console.Write("Seleccione el número del ejercicio que desea realizar: ");
@@ -23,7 +33,7 @@ class Program
         continue;
       }
 
-      if (opcion == 16)
+      if (opcion >= 16)
       {
         Console.WriteLine("Saliendo del programa...");
         return;
@@ -49,7 +59,45 @@ class Program
       case 2:
         new Exercise2().Operation2();
         break;
-      // Repite esto para los 15 ejercicios...
+      case 3:
+        new Exercise3().Operation3();
+        break;
+      case 4:
+        new Exercise3().Operation3();
+        break;
+      case 5:
+        new Exercise3().Operation3();
+        break;
+      case 6:
+        new Exercise3().Operation3();
+        break;
+      case 7:
+        new Exercise3().Operation3();
+        break;
+      case 8:
+        new Exercise3().Operation3();
+        break;
+      case 9:
+        new Exercise3().Operation3();
+        break;
+      case 10:
+        new Exercise3().Operation3();
+        break;
+      case 11:
+        new Exercise3().Operation3();
+        break;
+      case 12:
+        new Exercise3().Operation3();
+        break;
+      case 13:
+        new Exercise3().Operation3();
+        break;
+      case 14:
+        new Exercise3().Operation3();
+        break;
+      case 15:
+        new Exercise3().Operation3();
+        break;
       default:
         Console.WriteLine($"La clase para el ejercicio {numeroEjercicio} no está implementada aún.");
         break;
