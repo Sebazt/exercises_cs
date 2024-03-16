@@ -65,10 +65,10 @@ class Program
       case 4:
         new Exercise4().Operation4();
         break;
-      /* case 5:
+       case 5:
         new Exercise5().Operation5();
         break;
-      case 6:
+      /*case 6:
         new Exercise6().Operation6();
         break;
       case 7:
