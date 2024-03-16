@@ -63,41 +63,41 @@ class Program
         new Exercise3().Operation3();
         break;
       case 4:
-        new Exercise3().Operation3();
+        new Exercise4().Operation4();
         break;
-      case 5:
-        new Exercise3().Operation3();
+      /* case 5:
+        new Exercise5().Operation5();
         break;
       case 6:
-        new Exercise3().Operation3();
+        new Exercise6().Operation6();
         break;
       case 7:
-        new Exercise3().Operation3();
+        new Exercise7().Operation7();
         break;
       case 8:
-        new Exercise3().Operation3();
+        new Exercise8().Operation8();
         break;
       case 9:
-        new Exercise3().Operation3();
+        new Exercise9().Operation3();
         break;
       case 10:
-        new Exercise3().Operation3();
+        new Exercise10().Operation10();
         break;
       case 11:
-        new Exercise3().Operation3();
+        new Exercise11().Operation11();
         break;
       case 12:
-        new Exercise3().Operation3();
+        new Exercise12().Operation12();
         break;
       case 13:
-        new Exercise3().Operation3();
+        new Exercise13().Operation13();
         break;
       case 14:
-        new Exercise3().Operation3();
+        new Exercise14().Operation14();
         break;
       case 15:
-        new Exercise3().Operation3();
-        break;
+        new Exercise15().Operation15();
+        break; */
       default:
         Console.WriteLine($"La clase para el ejercicio {numeroEjercicio} no está implementada aún.");
         break;

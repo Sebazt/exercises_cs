@@ -4,7 +4,7 @@ class Exercise3
 {
   public void Operation3()
   {
-
+    Console.WriteLine("Vamos a calcular la raíz cuadrada o el cuadrado de un número");
     Console.Write("Ingrese un número: ");
     if (!double.TryParse(Console.ReadLine(), out double numero))
     {

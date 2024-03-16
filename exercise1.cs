@@ -3,7 +3,7 @@ class Exercise1
 {
   public void Operation1()
   {
-
+    Console.WriteLine("Vamos a generar el cuadrado de un número");
     Console.Write("Ingrese un número: ");
     if (!double.TryParse(Console.ReadLine(), out double numero))
     {

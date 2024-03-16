@@ -4,6 +4,7 @@ class Exercise2
 {
   public void Operation2()
   {
+    Console.WriteLine("Vamos a comparar dos números y generar un resultado");
     Console.WriteLine("Ingresaremos dos números");
 
     // Solicitar al usuario dos números
@@ -21,7 +22,7 @@ class Exercise2
       return;
     }
     double resultado;
-    
+
     if (numero1 > numero2)
     {
       resultado = numero1 * 2;
