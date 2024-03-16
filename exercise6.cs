@@ -5,8 +5,6 @@ class Exercise6
   public void Operation6()
   {
     Console.WriteLine("Para conocer tu impuesto, digita tu salario anual");
-
-    // Solicitar al usuario su salario anual
     Console.Write("Ingrese su salario anual: ");
     if (!double.TryParse(Console.ReadLine(), out double salarioAnual) || salarioAnual < 0)
     {
