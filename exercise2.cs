@@ -7,7 +7,6 @@ class Exercise2
     Console.WriteLine("Vamos a comparar dos números y generar un resultado");
     Console.WriteLine("Ingresaremos dos números");
 
-    // Solicitar al usuario dos números
     Console.Write("Ingrese el primer número: ");
     if (!double.TryParse(Console.ReadLine(), out double numero1))
     {
