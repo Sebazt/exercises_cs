@@ -86,7 +86,7 @@ class Program
       case 11:
         new Exercise11().Operation11();
         break;
-      /*case 12:
+      case 12:
         new Exercise12().Operation12();
         break;
       case 13:
@@ -97,7 +97,7 @@ class Program
         break;
       case 15:
         new Exercise15().Operation15();
-        break; */
+        break; 
       default:
         Console.WriteLine($"La clase para el ejercicio {numeroEjercicio} no está implementada aún.");
         break;
